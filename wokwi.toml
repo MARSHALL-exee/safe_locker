@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = ".pio/build/uno/firmware.hex"
+
+[env]
+lib_deps = ["Keypad", "LiquidCrystal_I2C"]
