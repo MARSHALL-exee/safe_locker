@@ -52,15 +52,16 @@ https://wokwi.com/projects/455387114618411009
 
 ### 1. Setup Interface
 Complete circuit setup in Wokwi.
-
+![Setup Interface](setup_interface.png)
 
 ### 2. Access Granted
 Correct password entered – system unlocked.
-
+![Access Granted](access_granted.png)
 
 ### 3. Locked State
 System locked after three incorrect attempts.
 
+![Locked State](locked_state.png)
 
 ---
 
